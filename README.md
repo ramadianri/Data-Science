@@ -1,2 +1,2 @@
 # Data-Science
-Repository containing data science projects completed by me for self learning and hobby purposes.
+Repository containing copies of my data science journey, including notes and projects completed by me for **portfolio** purposes.
